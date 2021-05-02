@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Paolo Manco's CV
 ---
-# Isaac Newton (test)
-Physicist, Mathematician, Cambridge professor.
+# Paolo Manco
+Senior C++/Qt software developer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="paolo.manco@gmail.com">paolo.manco@gmail.com</a>
+| <a href="https://github.com/paolomanco">My GitHub page</a>
 </div>
 
 
