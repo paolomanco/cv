@@ -8,6 +8,7 @@ Senior C++/Qt software developer
 <div id="webaddress">
 <a href="paolo.manco@gmail.com">paolo.manco@gmail.com</a>
 | <a href="https://github.com/paolomanco">My GitHub page</a>
+| <a href="https://www.linkedin.com/in/paolo-manco-67318248">My LinkedIn page</a>
 </div>
 
 
