@@ -5,17 +5,15 @@ title: Paolo Manco's CV
 # Paolo Manco
 Senior C++/Qt software developer
 
-Since 1982, from Lecce, Italy
-+39 3297291024
+## Info & Contacts
+
+: Since 1982, from Lecce, Italy
+: +39 3297291024
 
 <div id="webaddress">
   <a href="paolo.manco@gmail.com">paolo.manco@gmail.com</a>
 | <a href="https://github.com/paolomanco">@GitHub</a>
 | <a href="https://www.linkedin.com/in/paolo-manco-67318248">@LinkedIn</a>
-</div>
-
-<div id="webaddress">
-Telefono +39 3297291024
 </div>
 
 
