@@ -1,97 +1,37 @@
----
-layout: cv
-title: Paolo Manco's CV
----
 # Paolo Manco
-Senior C++/Qt software developer
 
-## Info & Contacts
-
-: Since 1982, from Lecce, Italy
-: +39 3297291024
-
-<div id="webaddress">
-  <a href="paolo.manco@gmail.com">paolo.manco@gmail.com</a>
-| <a href="https://github.com/paolomanco">@GitHub</a>
-| <a href="https://www.linkedin.com/in/paolo-manco-67318248">@LinkedIn</a>
-</div>
+**Senior C++/Qt software developer** from Lecce, Italy
++39 3297291024
+paolo.manco@gmail.com
+https://github.com/paolomanco
 
 
-## Currently
+## Work experience
 
-Standing on the shoulders of giants
+ - since Sep-2019, **Software engineer at Alten (Milan, Italy)**
 
-### Specialized in
+	Sviluppo di funzionalità custom sugli applicativi real-time di Fives Intralogistics S.p.A. (Varese, Italy).
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+	- Retrofit di un impianto (TNT/FedEX - United Kingdom)  
+Sviluppo di un adapter che permette agli applicativi real-time di Fives di comunicare con il nuovo OAM di FedEX (piani di smistamento).  
+Installazione, test e validazione delle soluzioni proposte (desktop remoto / trasferte).
+	- Porting da 32 a 64 bit (FedEx - Paris, Charles de Gaulle)  
+Porting di software Fives da Windows 7 (32 bit) a Windows 10 (64 bit).
+	- Swiveler (deviatore/manipolatore a sfere)  
+Collaborazione alla stesura del documento di specifica del protocollo di comunicazione via porta seriale tra PC e PLC.  
+Sviluppo di strumenti per test, configurazione e diagnostica del macchinario.
+	- Retrofit di 3 impianti (PostNord - Sweden)  
+Porting di software Fives da Windows XP (32 bit) a Windows 10 (64 bit).  
+Messa a punto di PC industriali, installazione del software convertito e sue dipendenze (IntervalZero RTX64, …).  
+Installazione, test e validazione delle soluzioni proposte (desktop remoto / trasferte).
 
+	> C++, Visual Studio 2010/2017, IntervalZero RTX 2012/2016, RTX64, CMake, Qt/QML, MFC, VMWare Player/Workstation, Git/Bitbucket/Sourcetree/TortoiseGIT, MS Office
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+ - from Jul-2014 to Aug-2019, **Ringmaster S.p.A. (IGT/Reply)**
+ - from Jan-2012 to Jun-2014, **Business project**
+ - from Jun-2011 to Oct-2011, **Clio S.p.A.**
+ - from Jan-2011 to May-2011, **University of Salento / Department of Innovation Engineering**
+ - from Sep-2010 to Dec-2010, **University of Salento / Department of Innovation Engineering**
 
 
 ## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
