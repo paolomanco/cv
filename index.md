@@ -8,7 +8,7 @@ https://github.com/paolomanco
 
 ## Work experience
 
- - since Sep-2019, **Software engineer at Alten (Milan, Italy)**
+ - since Sep-2019, **Software engineer at Alten - Milan, Italy**
 
 	Sviluppo di funzionalità custom sugli applicativi real-time di Fives Intralogistics S.p.A. (Varese, Italy).
 
@@ -27,11 +27,29 @@ Installazione, test e validazione delle soluzioni proposte (desktop remoto / tra
 
 	> C++, Visual Studio 2010/2017, IntervalZero RTX 2012/2016, RTX64, CMake, Qt/QML, MFC, VMWare Player/Workstation, Git/Bitbucket/Sourcetree/TortoiseGIT, MS Office
 
- - from Jul-2014 to Aug-2019, **Ringmaster S.p.A. (IGT/Reply)**
+ - from Jul-2014 to Aug-2019, **Software developer at Ringmaster S.p.A. (IGT/Lottomatica, Reply) - Rome, Italy**
+
+	> C++ 98/11, JavaScript, Java JNI, Bash, Batch Scripting, PHP, OpenGL Shader, OpenSL, Qt QML/Widgets, QMake, Boost, OpenSSL, Protobuf, Design Pattern.  
+Jira, Confluence, Jenkins, BuildRoot, Visual Studio , Qt Creator, Xcode, Subversion, TortoiseSVN, SmartSVN, Android NDK.  
+Agile, Peer-review, Pair-programming.
+
  - from Jan-2012 to Jun-2014, **Business project**
- - from Jun-2011 to Oct-2011, **Clio S.p.A.**
- - from Jan-2011 to May-2011, **University of Salento / Department of Innovation Engineering**
- - from Sep-2010 to Dec-2010, **University of Salento / Department of Innovation Engineering**
+
+	> C++, Visual Studio, Xcode, Qt Creator, Cygwin, Mingw32/GCC, Subversion, CMake, librerie Boost, regular expression, syscall per networking (blocking, non-blocking, async) e design pattern Reactor/Proactor per la gestione di connessioni simultanee (thread-pool, event-loop con dispatching di eventi), protocolli stream/datagram-based (HTTP, IRC, SMTP, POP3, DNS).
+
+ - from Jun-2011 to Oct-2011, **Software developer at Clio S.p.A. - Lecce, Italy**
+
+	> C/C++, Bash, Subversion, CMake, Mingw32, Xcode, Qt Creator.  
+Sviluppo di codice multi-piattaforma, syscall Unix/Windows per networking, tecniche di NAT traversing (UDP, TCP).
+
+ - from Jan-2011 to May-2011, **Software developer at "Department of Innovation Engineering" (University of Salento) - Lecce, Italy**
+
+	> C++/CLI, .Net Framework, Windows Form, MATLAB, Visual Studio 2008, Subversion, VTK (visualizzazione scientifica), tecniche di computer grafica, progettazione di curve e superfici 2D/3D (tramite equazioni) con diversi gradi di continuità geometrica e successiva discretizzazione/meshing.
+	
+ - from Sep-2010 to Dec-2010, **Software developer at "Department of Innovation Engineering" (University of Salento) - Lecce, Italy**
+
+	> C++, Visual Studio, 3D Studio Max, G3D e Newton (Newton Dynamics) per rendering e simulazione della fisica, XML Parsing e DOM, web-services, realizzazione di plugin tramite librerie dinamiche, design pattern, wxWidgets
 
 
 ## Education
+
